@@ -10,16 +10,19 @@ A simple, pratical guide to go from blank canvas to live website in Framer.
 6. Add color styles (brand, text-primary, text-secondary, etc)
 7. Create new section with fill width
 8. Add content-wrapper inside section with maximum width.
-9. Tag text layers properly (H1, H2, p)
-10. Link navigation and buttons
-11. Add smooth scroll for anchor links
-12. Use transition and hover effects where needed
-13. Set title + meta description for each page
-14. Add favicon and social image preview
-15. Define site language in page settings
-16. Checklist and grammar
-17. Test all links and buttons
-18. Connect domain
-19. Hit publish to go live 
+9. Create reusable components (e.g. button)
+10. Create reusable sections (e.g. navigation, footer, testimonials, cta)
+11. Adjust layout for tablet and mobile view. 
+12. Tag text layers properly (H1, H2, p)
+13. Link navigation and buttons
+14. Add smooth scroll for anchor links
+15. Use transition and hover effects where needed
+16. Set title + meta description for each page
+17. Add favicon and social image preview
+18. Define site language in page settings
+19. Checklist and grammar
+20. Test all links and buttons
+21. Connect domain - go with paid plans. 
+22. Hit publish to go live 
 
 
