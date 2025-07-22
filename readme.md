@@ -33,7 +33,7 @@
 
 ### Analytics & Legal
 - [ ] add analytics
-- [ ] add privacy/terms/cookies pages & banner
+- [ ] add legal pages (privacy & terms)
 
 ### Client handover
 - [ ] framer project is organized and clean. no mess.
